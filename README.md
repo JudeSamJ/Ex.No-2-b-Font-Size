@@ -1,7 +1,5 @@
 
 # Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
-# Register Number: 212222040066
-# Name: Jude Sam J
 
 ## AIM:
 To develop an application that uses GUI Components with Fonts and Colors using android studio.
@@ -45,8 +43,8 @@ Step 6:Close the Android project.
  ```
 /*
 Program to Develop an application that uses Font Size using Android Studio .
-Developed by: Nixan Dass A 
-RegisterNumber: 212222040109
+Developed by: Jude Sam J
+RegisterNumber: 212222040066
 */
 ```
 
